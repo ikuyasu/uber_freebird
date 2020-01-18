@@ -6,4 +6,5 @@
 - New users: $2.50 off your first 10 trips using *NEWRIDER25*
 
 # 2. Freebird
+![Image of Freebird](https://github.com/ikuyasu/uber_freebird/blob/master/images/_freebird.png)
 Get rewarded for going out! Get $10 when you take 2 rides using Freebird! Download the app https://my.fbird.co/vzlZZQUkW1 and enter my promo code *z8772* before you take your first ride!
