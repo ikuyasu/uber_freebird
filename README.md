@@ -1,5 +1,5 @@
 # 1 Uber
-![Image of Uber](https://octodex.github.com/images/_uber.png)
+![Image of Uber](https://github.com/ikuyasu/uber_freebird/blob/master/images/_uber.png)
 - New users: $5 off your first 3 trips using *NEWRIDER15*
 - New users: $4 off your first 4 trips using *NEWRIDER16*
 - New users: $3 off your first 6 trips using *NEWRIDER18*
